@@ -8,3 +8,6 @@ GLAD(Core	profile),
 GLM	and	also	GLSL	Shading Language,	
 and	also	C++11	standard	lanuage	plus	some	C	legacy	code.
 
+Special thanks to:
+Yan Chernikov, Joey de Vries
+
