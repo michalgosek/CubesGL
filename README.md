@@ -6,7 +6,7 @@ Used technologies:
 Modern	OpenGL,	GLFW(Context	version	3.3,	Core	profile),	
 GLAD(Core	profile),	
 GLM	and	also	GLSL	Shading Language,	
-and	also	C++11	standard	lanuage	plus	some	C	legacy	code.
+and	also	C++11	standard	language	plus	some	C	legacy	code.
 
 Special thanks to:
 Yan Chernikov, Joey de Vries
